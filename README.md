@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi, I’m Mario!
+👀 I’m interested in software engineering.
+🌱 I’m currently learning React Native.
+💞️ I’m looking to collaborate on any challenging project.
+📫 How to reach me: please send me an email at mario16@gmail.com
 
 <!--
 **mario16/mario16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
